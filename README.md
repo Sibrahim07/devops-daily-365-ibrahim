@@ -189,7 +189,7 @@ Every folder contains:
 
 | Day                    | Topic              |
 | ---------------------- | ------------------ |
-| ✅ [Day-001](./Day-001) | Linux Fundamentals |
+| ✅ [Day-001](./Day-001-Linux-System-Information) | Linux Fundamentals |
 | ⏳ [Day-002](./Day-002) | Git Basics         |
 | ⏳ [Day-003](./Day-003) | Git Branching      |
 | ⏳ [Day-004](./Day-004) | GitHub             |
