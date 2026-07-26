@@ -80,16 +80,23 @@ Every folder contains:
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="left">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sibrahim07&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sibrahim07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sibrahim07&theme=tokyonight"/>
+</p>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibrahim07&layout=compact&theme=tokyonight"/>
+<p align="left">
 
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sibrahim07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
+</p>
+
+<p align="left">
+
+<img src="https://streak-stats.demolab.com?user=Sibrahim07&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 
 
