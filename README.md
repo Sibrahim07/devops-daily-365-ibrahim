@@ -53,12 +53,12 @@ Every folder contains:
 ## Overall Progress
 
 ```text
-████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 1 / 365 Days
+████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3 / 365 Days
 ```
 
-**Current Day:** Day 001
+**Current Day:** Day 003
 
-**Completed:** 1
+**Completed:** 3
 
 **Remaining:** 364
 
@@ -197,8 +197,8 @@ Every folder contains:
 | Day                    | Topic              |
 | ---------------------- | ------------------ |
 | ✅ [Day-001](./Day-001-Linux-System-Information) | Linux Fundamentals |
-| ⏳ [Day-002](./Day-002) | Git Basics         |
-| ⏳ [Day-003](./Day-003) | Git Branching      |
+| ⏳ [Day-002](./Day-002-Linux-Disk-Monitoring-Script) | Git Basics         |
+| ⏳ [Day-003](./Day-003-Linux-Memory-Monitoring-Script) | Git Branching      |
 | ⏳ [Day-004](./Day-004) | GitHub             |
 | ⏳ [Day-005](./Day-005) | GitHub Actions     |
 | ⏳ [Day-006](./Day-006) | Linux Users        |
