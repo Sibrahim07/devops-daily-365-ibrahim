@@ -53,16 +53,16 @@ Every folder contains:
 ## Overall Progress
 
 ```text
-████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 3 / 365 Days
+████████████████████████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15 / 365 Days
 ```
 
-**Current Day:** Day 003
+**Current Day:** Day 015
 
-**Completed:** 3
+**Completed:** 15
 
 **Remaining:** 364
 
-**Completion:** 0.27%
+**Completion:** 4.16%
 
 ---
 
@@ -174,16 +174,16 @@ Every folder contains:
 ```text
 365-Days-DevOps/
 
-├── Day-001
-├── Day-002
-├── Day-003
-├── Day-004
+├── Day-001-Linux
+├── Day-016-Git-&-GitHub
+├── Day-031-Docker
+├── Day-021-Kubernetes
 │
 │
 ├── ....
 │
 │
-├── Day-365
+├── Day-365-End-to-End DevOps Projects
 │
 ├── assets
 │
