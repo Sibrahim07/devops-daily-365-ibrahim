@@ -80,19 +80,19 @@ Every folder contains:
 
 # 📊 GitHub Analytics
 
-<p align="left">
+<p align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sibrahim07&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
-<p align="left">
+<p align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sibrahim07&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
-<p align="left">
+<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Sibrahim07&theme=tokyonight&hide_border=true"/>
 
@@ -100,7 +100,9 @@ Every folder contains:
 
 
 
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sibrahim07&theme=react-dark&hide_border=true&area=true"/>
+</p>
 
 
 
